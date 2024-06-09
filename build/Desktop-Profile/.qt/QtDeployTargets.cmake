@@ -1,1 +1,0 @@
-set(__QT_DEPLOY_TARGET_InnovaCompanySale_FILE /home/pavel/Projects/Coursework/InnovaCompanyManagement/build/Desktop-Profile/InnovaCompanySale)
