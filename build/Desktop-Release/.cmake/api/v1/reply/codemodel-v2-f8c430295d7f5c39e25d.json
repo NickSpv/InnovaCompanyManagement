@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Release-e0fd98fa315a2341162b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "InnovaCompanySale",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "InnovaCompanySale::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-InnovaCompanySale-Release-ed117e0fe68cb8ddb81d.json",
+					"name" : "InnovaCompanySale",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "InnovaCompanySale_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-InnovaCompanySale_autogen-Release-1c75ad4001e3843b30df.json",
+					"name" : "InnovaCompanySale_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "InnovaCompanySale_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-InnovaCompanySale_autogen_timestamp_deps-Release-e418e71f891e43601bd8.json",
+					"name" : "InnovaCompanySale_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/pavel/Projects/Coursework/InnovaCompanyManagement/build/Desktop-Release",
+		"source" : "/home/pavel/Projects/Coursework/InnovaCompanySale"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

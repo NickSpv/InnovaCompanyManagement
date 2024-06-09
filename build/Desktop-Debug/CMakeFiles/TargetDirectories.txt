@@ -1,0 +1,9 @@
+/home/pavel/Projects/Coursework/InnovaCompanyManagement/build/Desktop-Debug/CMakeFiles/InnovaCompanyDesign.dir
+/home/pavel/Projects/Coursework/InnovaCompanyManagement/build/Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/pavel/Projects/Coursework/InnovaCompanyManagement/build/Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/pavel/Projects/Coursework/InnovaCompanyManagement/build/Desktop-Debug/CMakeFiles/list_install_components.dir
+/home/pavel/Projects/Coursework/InnovaCompanyManagement/build/Desktop-Debug/CMakeFiles/install.dir
+/home/pavel/Projects/Coursework/InnovaCompanyManagement/build/Desktop-Debug/CMakeFiles/install/local.dir
+/home/pavel/Projects/Coursework/InnovaCompanyManagement/build/Desktop-Debug/CMakeFiles/install/strip.dir
+/home/pavel/Projects/Coursework/InnovaCompanyManagement/build/Desktop-Debug/CMakeFiles/InnovaCompanyDesign_autogen_timestamp_deps.dir
+/home/pavel/Projects/Coursework/InnovaCompanyManagement/build/Desktop-Debug/CMakeFiles/InnovaCompanyDesign_autogen.dir

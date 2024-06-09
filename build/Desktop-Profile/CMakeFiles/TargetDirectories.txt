@@ -1,0 +1,9 @@
+/home/pavel/Projects/Coursework/InnovaCompanyManagement/build/Desktop-Profile/CMakeFiles/InnovaCompanySale.dir
+/home/pavel/Projects/Coursework/InnovaCompanyManagement/build/Desktop-Profile/CMakeFiles/edit_cache.dir
+/home/pavel/Projects/Coursework/InnovaCompanyManagement/build/Desktop-Profile/CMakeFiles/rebuild_cache.dir
+/home/pavel/Projects/Coursework/InnovaCompanyManagement/build/Desktop-Profile/CMakeFiles/list_install_components.dir
+/home/pavel/Projects/Coursework/InnovaCompanyManagement/build/Desktop-Profile/CMakeFiles/install.dir
+/home/pavel/Projects/Coursework/InnovaCompanyManagement/build/Desktop-Profile/CMakeFiles/install/local.dir
+/home/pavel/Projects/Coursework/InnovaCompanyManagement/build/Desktop-Profile/CMakeFiles/install/strip.dir
+/home/pavel/Projects/Coursework/InnovaCompanyManagement/build/Desktop-Profile/CMakeFiles/InnovaCompanySale_autogen_timestamp_deps.dir
+/home/pavel/Projects/Coursework/InnovaCompanyManagement/build/Desktop-Profile/CMakeFiles/InnovaCompanySale_autogen.dir

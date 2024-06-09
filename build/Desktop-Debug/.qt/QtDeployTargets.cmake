@@ -1,0 +1,1 @@
+set(__QT_DEPLOY_TARGET_InnovaCompanyDesign_FILE /home/pavel/Projects/Coursework/InnovaCompanyManagement/build/Desktop-Debug/InnovaCompanyDesign)
